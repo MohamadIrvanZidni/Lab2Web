@@ -6,6 +6,7 @@ Saya membuat formulir di mana pengguna diminta untuk memasukkan nama, tanggal la
 Meminta pengguna untuk memasukkan nama, tanggal lahir, dan pekerjaan melalui form.
 
 Code :
+    
     <form method="post">
         <label>Nama: </label>
         <input type="text" name="nama"><br><br>
